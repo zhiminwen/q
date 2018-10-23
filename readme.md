@@ -1,3 +1,6 @@
+# Drepcated. Use quote instead
+Use the quote for the package name. Refer to github.com/zhiminwen/quote
+
 # Quote for quick string constructions
 
 Construct a string slice as Ruby's quote
